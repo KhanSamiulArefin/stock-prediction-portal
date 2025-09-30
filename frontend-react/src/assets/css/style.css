@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(3, 78, 78);
+}
+
+.navbar-brand{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:xx-large;
+
+}
+.bg-light-dark{
+    background-color: rgb(54, 104, 91);  
+}
+
+#root{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh
+}
+
+.container{
+    flex: 1;
+}
